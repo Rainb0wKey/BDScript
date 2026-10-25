@@ -1,0 +1,21 @@
+# ‎Privacy Policy
+‎
+‎Last updated: October 20, 2026
+‎
+‎The staff bot "BDScript" may collect and store certain information necessary to provide its features. This may include Discord user IDs, server IDs, usernames, server settings, and information related to commands used with the Bot. When moderation features are used, the Bot may also process moderation-related information, such as warnings, bans, kicks, timeouts, moderation reasons, and the IDs of users and moderators involved.
+‎
+‎The information collected depends on the features available and how the Bot is configured. We do not intentionally collect information that is unnecessary for the operation of the Bot.
+‎
+‎The information collected is used to provide the Bot's moderation features, maintain server configurations, keep moderation records, prevent abuse, and troubleshoot technical issues. Certain information may be stored to ensure that features such as warnings, moderation history, and server settings continue to function correctly.
+‎
+‎Information is be stored in databases used to operate the Bot. Data is retained for as long as necessary to provide the necessary features. The length of time information is stored may vary depending on the type of data and the features being used.
+‎
+‎We do not sell your personal information. Information processed by the Bot is not shared with third parties. However, Server administrators may have access to moderation information generated within our server through the Bot's features.
+‎
+‎We take important steps to protect stored information from unauthorized access, or destruction. However, no method of electronic storage or transmission can be guaranteed to be completely secure.
+‎
+‎If you would like to request the removal of information associated with your Discord account, you may contact us through our tifket system or the contact method provided below.
+‎
+‎We reserve the right to update this Privacy Policy when necessary to reflect changes to the Bot, its features, or its data practices. Any changes will be published on this page along with an updated revision date.
+‎
+‎If you have questions regarding this Privacy Policy or wish to make a data-related request, you can contact us through our ticket system, using "!new" in a commands channel
